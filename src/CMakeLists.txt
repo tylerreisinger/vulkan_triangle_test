@@ -1,0 +1,6 @@
+set(SOURCES
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Extensions.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Layers.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Simulation.cpp
+PARENT_SCOPE)
